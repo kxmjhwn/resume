@@ -73,7 +73,7 @@
 
 * 자세히 보기 : https://kxmjhwn.tistory.com/110?category=1121129
 
-<img src="https://user-images.githubusercontent.com/64311243/96423026-c0ab0e80-1233-11eb-8f14-d249c759b04a.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96423026-c0ab0e80-1233-11eb-8f14-d249c759b04a.png" width="50%"></img>
 
 ### **SK AI 스피커 'NUGU'의 서비스 개발**
 
@@ -93,7 +93,7 @@
   
   * [2019 SMU AI 경진대회] 에 참가하여 수상함 
 
-<img src="https://user-images.githubusercontent.com/64311243/96423157-e3d5be00-1233-11eb-8cb7-2a92e9dde504.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96423157-e3d5be00-1233-11eb-8cb7-2a92e9dde504.png" width="50%"></img>
 
 ### **팀 프로젝트 협업 툴 개발 프로그램**
 
@@ -127,7 +127,7 @@
   
 * 자세히 보기 : https://kxmjhwn.tistory.com/221?category=1121129
 
-<img src="https://user-images.githubusercontent.com/64311243/96421724-11ba0300-1232-11eb-995e-8924bff5bb4f.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96421724-11ba0300-1232-11eb-995e-8924bff5bb4f.png" width="50%"></img>
 
 ----------------------------
 # 커뮤니티 활동
@@ -138,7 +138,6 @@
 
 * 소개 : IoT 기술 전문 회사인 ‘(주)지피지기소프트’에서 인턴으로 활동함. 실시간 소방관리시스템 효과성 측정 및 기능 고도화 ISP 사업과 인천광역시 연수구 스마트 자전거 추돌방지 시스템 사업에 연구원으로 참여함
 
---------------------------------
 
 ### **개인 블로그 활동**
 
@@ -157,8 +156,6 @@
 
 * 성과 : 장려상
 
---------------------------------
-
 ### **2020 포스트 코로나 AI 챌린지**
 
 * 기간 : 2020.02 ~ 2020.05
@@ -166,8 +163,6 @@
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술을 이용하여, 건물 출입구 또는 건물 내부의 마스크 미착용자를 탐지하는 시스템
 
 * 성과 : 최우수상 (한국정보화지능원장상)
-
---------------------------------
 
 ### **2020 SMU 캡스톤 디자인**
 
