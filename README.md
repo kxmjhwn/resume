@@ -1,4 +1,4 @@
-## 이력서
+# 이력서
 #### **“세상에 없는 새로운 아이디어를 기획하고 실현하는 것이 자신 있는 개발자가 되고 싶은 김주환입니다 !”**
 
 * 이름 : 김주환
@@ -16,7 +16,7 @@
 
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(Teachable Machine)을 이용하여, 건물 출입구 또는 건물 내부의 마스크 미착용자를 탐지하는 시스템
 
-<img src="https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96422688-4c706b00-1233-11eb-80ae-c5ba9b15d94a.png" width="70%"></img>
 
 * 역할 및 기술
   
@@ -30,7 +30,7 @@
   
   * [2020 포스트 코로나 AI 챌린지 – 아이디어부문] 에 참가하여 수상함
 
-<img src="https://user-images.githubusercontent.com/64311243/96419006-7ecb9980-122e-11eb-80b7-cde7c3d6624c.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96422836-804b9080-1233-11eb-807c-52bf8a37983d.png" width="70%"></img>
 
 * 종합 보고서 링크 : https://kxmjhwn.tistory.com/152?category=1121129 
 
@@ -42,7 +42,7 @@
 
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(YOLO)을 이용하여, 동영상 속 개인정보 이미지 (자동차 번호판, 도로명 주소판 등) 또는 유해 이미지(칼, 담배 등)를 탐지하여 모자이크 처리하는 시스템. (동영상 업로드, 동영상 모자이크, 동영상 다운로드)
 
-<img src="https://user-images.githubusercontent.com/64311243/96419491-2fd23400-122f-11eb-84a5-cb6a1db7bc1e.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96422774-6ca02a00-1233-11eb-80fd-3c2e3999e127.png" width="70%"></img>
 
 * 역할 및 기술
   
@@ -54,7 +54,7 @@
   
   * [2020 캡스톤 디자인] 에 참가하여 수상함
 
-<img src="https://user-images.githubusercontent.com/64311243/96419652-65771d00-122f-11eb-91b0-7ca9a921447b.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96422913-9bb69b80-1233-11eb-8500-808d2fff6744.png" width="70%"></img>
 
 * 종합 보고서 링크 : https://kxmjhwn.tistory.com/219?category=1115413
 
@@ -66,7 +66,7 @@
 
 * 소개 : UNIX 환경에서 프로세스 간 통신 기능을 활용하여 ‘카카오톡’과 유사한 채팅 프로그램을 제작
 
-<img src="https://user-images.githubusercontent.com/64311243/96420193-24cbd380-1230-11eb-9433-9e72693624d6.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96423026-c0ab0e80-1233-11eb-8f14-d249c759b04a.png" width="70%"></img>
 
 * 역할 및 기술
   
@@ -78,7 +78,7 @@
   
   * 프로그램의 동작 중 원하는 기능을 호출하여 수행할 수 있도록 하기 위해 SIGINT 시그널을 기능 호출 시그널로 수정하여 구현
 
-<img src="https://user-images.githubusercontent.com/64311243/96421057-44afc700-1231-11eb-9c22-a39bd9c3a5d7.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96423087-d28cb180-1233-11eb-8f91-a367a79edd6b.png" width="70%"></img>
 
 * 종합 보고서 링크 : https://kxmjhwn.tistory.com/110?category=1121129
 
@@ -90,7 +90,7 @@
 
 * 소개 : SK의 인공지능 스피커 ‘NUGU’를 이용하여, ‘외출하는 사람’에게 맞는 특정 서비스를 기획 및 개발
 
-<img src="https://user-images.githubusercontent.com/64311243/96421233-7cb70a00-1231-11eb-9ec3-f12a14a2a224.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96423157-e3d5be00-1233-11eb-8cb7-2a92e9dde504.png" width="70%"></img>
 
 * 역할 및 기술
   
@@ -111,7 +111,7 @@
 
 * 소개 : 팀 단위 프로젝트 진행하는데 필요한 툴을 지원하는 등의 도움을 주는 프로젝트 협업 툴 프로그램을 제작
 
-<img src="https://user-images.githubusercontent.com/64311243/96421455-c3a4ff80-1231-11eb-9182-ff02978c2789.png" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96423224-fea83280-1233-11eb-840b-5f9856e1f3b2.png" width="70%"></img>
 
 * 역할 및 기술
   
