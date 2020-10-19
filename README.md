@@ -5,3 +5,9 @@
 * E-mail : kxmjhwn@gmail.com
 * GitHub : 
 * Blog : kxmjhwn.tistory.com
+
+
+# 주요 프로젝트
+# 사이드 프로젝트
+# 커뮤니티 활동
+# 대회수상 및 자격증
