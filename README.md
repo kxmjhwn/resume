@@ -1,16 +1,25 @@
 ## 이력서
+
 #### **“세상에 없는 새로운 아이디어를 기획하고 실현하는 것이 자신 있는 개발자가 되고 싶은 김주환입니다 !”**
 
 * 이름 : 김주환
+
+
 * E-mail : kxmjhwn@gmail.com
+
 * GitHub : 
+
 * Blog : https://kxmjhwn.tistory.com
 
 
 ## 주요 프로젝트
+
 ### 마스크 미착용자 탐지 시스템
+
 * 기간 : 2020.02 ~ 2020.05
+
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(Teachable Machine)을 이용하여, 건물 출입구 또는 건물 내부의 마스크 미착용자를 탐지하는 시스템
+
 * 시스템 구성도
 <img src="https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png" width="90%"></img>
 * 역할 및 기술
