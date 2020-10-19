@@ -1,6 +1,11 @@
 # 이력서
 #### **“세상에 없는 새로운 아이디어를 기획하고 실현하는 것이 자신 있는 개발자가 되고 싶은 김주환입니다 !”**
 
+<center>
+  <img src="https://user-images.githubusercontent.com/64311243/96423486-5ba3e880-1234-11eb-93cf-e1467d06d5f8.png" width="70%"></img>
+</center>
+
+
 * 이름 : 김주환
 
 * E-mail : kxmjhwn@gmail.com
