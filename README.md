@@ -16,7 +16,7 @@
 
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(Teachable Machine)을 이용하여, 건물 출입구 또는 건물 내부의 마스크 미착용자를 탐지하는 시스템
 
-<img src="https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png" width="70%" align="center">시스템 구성도</img>
+<img src="https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png" width="70%" align="center"></img>
 
 * 역할 및 기술
   
