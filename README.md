@@ -1,16 +1,14 @@
 # Resume
 
+#### **“새롭고 남다른 아이디어를 기획하는 것에 자신 있는 '좋은 개발자'가 되고 싶습니다."**
+
 <img src="https://user-images.githubusercontent.com/64311243/96423486-5ba3e880-1234-11eb-93cf-e1467d06d5f8.png"></img>
-
-#### **“새롭고 남다른 아이디어를 생각해내는 것을 좋아하고 자신있어 합니다.”**
-#### **“여기서 그치지 않고, 이를 구현하고 개발하는 개발자입니다.”**
-
 
 * 이름 : 김주환
 
 * E-mail : kxmjhwn@gmail.com
 
-* GitHub : 
+* GitHub : https://github.com/kxmjhwn
 
 * Blog : https://kxmjhwn.tistory.com
 
