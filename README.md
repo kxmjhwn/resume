@@ -12,7 +12,7 @@
 * 기간 : 2020.02 ~ 2020.05
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(Teachable Machine)을 이용하여, 건물 출입구 또는 건물 내부의 마스크 미착용자를 탐지하는 시스템
 * 시스템 구성도
-![image](https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png)
+<img src="https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png" width="90%"></img>
 * 역할 및 기술
   * 프로젝트의 모든 역할 수행 (아이디어 기획, 학습 파일 제작, 추가 기능 코드 구현, 산출물 작성 등)
   * Google의 머신 러닝 툴인 Teachable Machine을 활용하여, 마스크 착용자와 미착용자에 대한 학습 파일을 생성
