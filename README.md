@@ -30,11 +30,12 @@
   
   * [2020 포스트 코로나 AI 챌린지 – 아이디어부문] 에 참가하여 수상함
 
-* 참고 자료 : https://kxmjhwn.tistory.com/152?category=1121129 
-
 <img src="https://user-images.githubusercontent.com/64311243/96419006-7ecb9980-122e-11eb-80b7-cde7c3d6624c.png" width="90%"></img>
 
+* 참고 자료 : https://kxmjhwn.tistory.com/152?category=1121129 
+
 --------------------------------
+
 ### **개인정보 및 유해 이미지 자동 탐지 & 모자이크 시스템**
 
 * 기간 : 2020.03 ~ 2020.11
@@ -53,9 +54,11 @@
   
   * [2020 캡스톤 디자인] 에 참가하여 수상함
 
+<img src="https://user-images.githubusercontent.com/64311243/96419652-65771d00-122f-11eb-91b0-7ca9a921447b.png" width="90%"></img>
+
 * 참고 자료 : https://kxmjhwn.tistory.com/219?category=1115413
 
-<img src="https://user-images.githubusercontent.com/64311243/96419652-65771d00-122f-11eb-91b0-7ca9a921447b.png" width="90%"></img>
+--------------------------------
 
 ### ****
 
