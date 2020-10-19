@@ -19,8 +19,6 @@
 
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(Teachable Machine)을 이용하여, 건물 출입구 또는 건물 내부의 마스크 미착용자를 탐지하는 시스템
 
-<img src="https://user-images.githubusercontent.com/64311243/96422688-4c706b00-1233-11eb-80ae-c5ba9b15d94a.png" width="70%"></img>
-
 * 역할 및 기술
   
   * 프로젝트의 모든 역할 수행 (아이디어 기획, 학습 파일 제작, 추가 기능 코드 구현, 산출물 작성 등)
@@ -33,9 +31,11 @@
   
   * [2020 포스트 코로나 AI 챌린지 – 아이디어부문] 에 참가하여 수상함
 
-<img src="https://user-images.githubusercontent.com/64311243/96422836-804b9080-1233-11eb-807c-52bf8a37983d.png" width="70%"></img>
-
 * 종합 보고서 링크 : https://kxmjhwn.tistory.com/152?category=1121129 
+
+<img src="https://user-images.githubusercontent.com/64311243/96422688-4c706b00-1233-11eb-80ae-c5ba9b15d94a.png" width="70%"></img>
+
+<img src="https://user-images.githubusercontent.com/64311243/96422836-804b9080-1233-11eb-807c-52bf8a37983d.png" width="70%"></img>
 
 ## **개인정보 및 유해 이미지 자동 탐지 & 모자이크 시스템**
 
