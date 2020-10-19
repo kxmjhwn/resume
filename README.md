@@ -109,7 +109,7 @@
   
 * 자세히 보기 : https://kxmjhwn.tistory.com/109?category=1121129
 
-<img src="https://user-images.githubusercontent.com/64311243/96423224-fea83280-1233-11eb-840b-5f9856e1f3b2.png" width="350%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96423224-fea83280-1233-11eb-840b-5f9856e1f3b2.png" width="35%"></img>
 
 ### **실시간소방관리시스템 효과성 측정 및 기능 고도화 ISP**
 
