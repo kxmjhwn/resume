@@ -16,7 +16,7 @@
 
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(Teachable Machine)을 이용하여, 건물 출입구 또는 건물 내부의 마스크 미착용자를 탐지하는 시스템
 
-<img src="https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96418069-32338e80-122d-11eb-9d72-6b5d6f148cfe.png" width="70%"></img>
 
 * 역할 및 기술
   
@@ -30,7 +30,7 @@
   
   * [2020 포스트 코로나 AI 챌린지 – 아이디어부문] 에 참가하여 수상함
 
-<img src="https://user-images.githubusercontent.com/64311243/96419006-7ecb9980-122e-11eb-80b7-cde7c3d6624c.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96419006-7ecb9980-122e-11eb-80b7-cde7c3d6624c.png" width="70%"></img>
 
 * 참고 자료 : https://kxmjhwn.tistory.com/152?category=1121129 
 
@@ -42,7 +42,7 @@
 
 * 소개 : 인공지능 기반의 실시간 객체 탐지 기술(YOLO)을 이용하여, 동영상 속 개인정보 이미지 (자동차 번호판, 도로명 주소판 등) 또는 유해 이미지(칼, 담배 등)를 탐지하여 모자이크 처리하는 시스템. (동영상 업로드, 동영상 모자이크, 동영상 다운로드)
 
-<img src="https://user-images.githubusercontent.com/64311243/96419491-2fd23400-122f-11eb-84a5-cb6a1db7bc1e.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96419491-2fd23400-122f-11eb-84a5-cb6a1db7bc1e.png" width="70%"></img>
 
 * 역할 및 기술
   
@@ -54,7 +54,7 @@
   
   * [2020 캡스톤 디자인] 에 참가하여 수상함
 
-<img src="https://user-images.githubusercontent.com/64311243/96419652-65771d00-122f-11eb-91b0-7ca9a921447b.png" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/64311243/96419652-65771d00-122f-11eb-91b0-7ca9a921447b.png" width="70%"></img>
 
 * 참고 자료 : https://kxmjhwn.tistory.com/219?category=1115413
 
