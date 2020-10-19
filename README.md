@@ -20,10 +20,7 @@
   * 추가로 구현한 코드를 통해 학습파일과 음성파일, 이외 추가 기능을 합쳐 하나의 웹 페이지 제작
   * [2020 포스트 코로나 AI 챌린지 – 아이디어부문] 에 참가하여 수상함
 * 참고 자료 : https://kxmjhwn.tistory.com/152?category=1121129 
-<h4>
- <img src="https://user-images.githubusercontent.com/64311243/96418382-a3734180-122d-11eb-8ee3-3987e45810b2.png" width="45%"></img>
- <img src="https://user-images.githubusercontent.com/64311243/96418405-aa01b900-122d-11eb-90c2-139e7acb36cf.png" width="45%"></img>
-</h4>
+![image](https://user-images.githubusercontent.com/64311243/96419006-7ecb9980-122e-11eb-80b7-cde7c3d6624c.png)
 
 ### 마스크 미착용자 탐지 시스템
 * 기간 : 
